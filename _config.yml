@@ -1,6 +1,6 @@
 repository: ethereum/go-ethereum
 
-theme: minima
+theme: jekyll-theme-minimal
 
 keep_files:
   - static
